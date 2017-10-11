@@ -1,0 +1,15 @@
+{
+  "name": "socket_io_chat",
+  "version": "1.0.0",
+  "description": "simple socket io chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinit Tomar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.3"
+  }
+}
